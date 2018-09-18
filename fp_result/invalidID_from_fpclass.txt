@@ -1,0 +1,6 @@
+10 IDs could not be mapped to proteins:
+C15orf21, HELIOS, ERVK-17, HIST1H4I, Ig, MIR142, EWS, NABP1, Immunoglobulin, KIAA1549L
+
+17 IDs had no data:
+C15orf55, C6orf204, CEP110, HMGN2P46, KIAA1549, MALAT1, TPR, 
+RET, KIT, MIPOL1, MDS2, ERG, MLLT11, CCDC28A, LNP1, C20orf112, SSX2

@@ -1,0 +1,401 @@
+Query ID	Protein Domains
+ACSL3	AMP-binding_conserved_site, AMP-dependent_synthetase/ligase
+ACTB	Actin-like, Actin/actin-like_conserved_site, Actin_conserved_site
+AFF3	Transcription_factor_AF4/FMR2
+AGTRAP	Angiotensin_II_type_I_receptor-associated
+AHRR	Helix-loop-helix_DNA-binding, Helix-loop-helix_DNA-binding_domain, PAS, PAS_fold
+AKAP9	Pericentrin/AKAP-450_centrosomal_targeting_domain
+ALK	Concanavalin_A-like_lectin/glucanase, Low-density_lipoprotein_(LDL)_receptor_class_A_repeat, MAM_domain, Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_catalytic_domain, Serine-threonine/tyrosine-protein_kinase, Tyrosine-protein_kinase_active_site, Tyrosine-protein_kinase_catalytic_domain, Tyrosine-protein_kinase_receptor_class_II_conserved_site
+ANKRD28	Ankyrin_repeat, Ankyrin_repeat-containing_domain
+ARHGAP6	Rho_GTPase-activating_protein_domain, Rho_GTPase_activation_protein
+ASPSCR1	GLUT4_regulating_protein_TUG, UBX
+ATIC	AICARFT/IMPCHase_bienzyme, AICARFT/IMPCHase_bienzyme_transformylase_domain, Cytidine_deaminase-like, Methylglyoxal_synthase-like_domain
+BACH2	Basic-leucine_zipper_(bZIP)_transcription_factor, BTB/POZ, BTB/POZ-like, BTB/POZ_fold, bZIP_transcription_factor_bZIP-1, Eukaryotic_transcription_factor_Skn-1-like_DNA-binding
+BCL11B	Zinc_finger_C2H2-like, Zinc_finger_C2H2-type, Zinc_finger_C2H2-type/integrase_DNA-binding
+BCL2	Apoptosis_regulator_Bcl-2, Apoptosis_regulator_Bcl-2_BH, Apoptosis_regulator_Bcl-2_BH1_motif_conserved_site, Apoptosis_regulator_Bcl-2_BH2_motif_conserved_site, Apoptosis_regulator_Bcl-2_BH3_motif_conserved_site, Apoptosis_regulator_Bcl-2_BH4_motif_conserved_site, Apoptosis_regulator_Bcl-2_protein_BH4, Apoptosis_regulator_Bcl-X_protein, Apoptosis_regulator_Bcl2-like
+BCL9	B_Cell_Lymphoma_9
+BCOR	Ankyrin_repeat, Ankyrin_repeat-containing_domain
+BCR	Bcr-Abl_oncoprotein_oligomerisation, C2_calcium-dependent_membrane_targeting, C2_calcium/lipid-binding_domain_CaLB, C2_membrane_targeting_protein, Dbl_homology_(DH)_domain, Guanine-nucleotide_dissociation_stimulator_CDC24_conserved_site, Pleckstrin_homology-type, Pleckstrin_homology_domain, Rho_GTPase-activating_protein_domain, Rho_GTPase_activation_protein
+BIRC3	Baculoviral_inhibition_of_apoptosis_protein_repeat, Caspase_Recruitment, DEATH-like, Zinc_finger_RING-type, Zinc_finger_RING/FYVE/PHD-type
+BRD3	Bromodomain, Bromodomain_conserved_site
+BRWD3	Bromodomain, Quinoprotein_amine_dehydrogenase_beta_chain-like, WD40-repeat-containing_domain, WD40/YVTN_repeat-like-containing_domain, WD40_repeat, WD40_repeat_2, WD40_repeat_conserved_site, WD40_repeat_subgroup
+C11orf95	Zinc_finger_C2H2-like
+CACNA2D4	Cache, von_Willebrand_factor_type_A, VWA_N-terminal
+CANT1	Apyrase
+CAPRIN1	Cytoplasmic_activation/proliferation-associated_protein-1_C_term
+CARS	Aminoacyl-tRNA_synthetase_class_1a_anticodon-binding, Cysteinyl-tRNA_synthetase_class_Ia, Rossmann-like_alpha/beta/alpha_sandwich_fold
+CBFB	Core_binding_factor_beta_subunit
+CCDC6	Protein_of_unknown_function_DUF2046
+CCDC88C	HOOK
+CCND1	Cyclin, Cyclin-like, Cyclin-related, Cyclin_A/B/D/E, Cyclin_C-terminal, Cyclin_N-terminal
+CD44	C-type_lectin-like, C-type_lectin_fold, CD44_antigen, Link
+CD74	MHC_class_II-associated_invariant_chain, MHC_class_II-associated_invariant_chain/CLIP_MHC_II-interacting, MHC_class_II-associated_invariant_chain_trimerisation, Thyroglobulin_type-1
+CDH11	Cadherin, Cadherin-like, Cadherin_conserved_site, Cadherin_cytoplasmic_domain
+CDK5RAP2	Spindle_associated
+CDK6	Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_catalytic_domain, Serine/threonine-protein_kinase-like_domain, Serine/threonine-protein_kinase_active_site, Serine/threonine-protein_kinase_domain
+CHCHD7	MTCP1
+CHIC2	Golgin_subfamily_A_member_7/ERF4
+CIC	High_mobility_group_HMG1/HMG2, High_mobility_group_superfamily
+CLTC	Armadillo-type_fold, Clathrin_heavy_chain, Clathrin_heavy_chain/VPS_7-fold_repeat, Clathrin_heavy_chain_linker/propeller_domain, Clathrin_heavy_chain_linker_core_motif, Clathrin_heavy_chain_propeller_N-terminal, Clathrin_heavy_chain_propeller_repeat, Tetratricopeptide-like_helical
+CNBP	Zinc_finger_CCHC-type, Zinc_finger_CCHC_retroviral-type
+CNTRL	Leucine-rich_repeat
+COL1A1	Collagen_triple_helix_repeat, Fibrillar_collagen_C-terminal, von_Willebrand_factor_type_C
+COL1A2	Collagen_triple_helix_repeat, Fibrillar_collagen_C-terminal
+COL6A3	Collagen_triple_helix_repeat, Fibronectin_type_III, Fibronectin_type_III_domain, Immunoglobulin-like_fold, Proteinase_inhibitor_I2_Kunitz_conserved_site, Proteinase_inhibitor_I2_Kunitz_metazoa, von_Willebrand_factor_type_A
+CREB3L2	Basic-leucine_zipper_(bZIP)_transcription_factor, bZIP_transcription_factor_bZIP-1, Eukaryotic_transcription_factor_Skn-1-like_DNA-binding
+DGKB	Calcium-binding_EF-hand, Diacylglycerol_kinase_accessory_domain, Diacylglycerol_kinase_catalytic_domain, EF-hand-like_domain, EF-Hand_1_calcium-binding_site, EF-HAND_2, Protein_kinase_C-like_phorbol_ester/diacylglycerol_binding
+EML1	HELP, Quinonprotein_alcohol_dehydrogenase-like, WD40-repeat-containing_domain, WD40/YVTN_repeat-like-containing_domain, WD40_repeat, WD40_repeat_2, WD40_repeat_subgroup
+EML4	HELP, Quinonprotein_alcohol_dehydrogenase-like, WD40-repeat-containing_domain, WD40/YVTN_repeat-like-containing_domain, WD40_repeat, WD40_repeat-like-containing_domain, WD40_repeat_2, WD40_repeat_conserved_site, WD40_repeat_subgroup
+EPC1	Enhancer_of_polycomb-like_N-terminal, Enhancer_of_polycomb_C-terminal
+ERC1	CAZ_complex_RIM-binding_protein, Rab11-binding_domain__FIP_domain_C-terminal
+ESRP1	Nucleotide-binding_alpha-beta_plait, Ribonuclease_H-like, RNA_recognition_motif_domain
+ETV6	Ets, Sterile_alpha_motif-type, Sterile_alpha_motif/pointed, Sterile_alpha_motif_homology, Winged_helix-turn-helix_transcription_repressor_DNA-binding
+EWSR1	Nucleotide-binding_alpha-beta_plait, RNA_recognition_motif_domain, Zinc_finger_RanBP2-type
+EXOC2	Cell_surface_receptor_IPT/TIG, Immunoglobulin-like_fold, Immunoglobulin_E-set
+FCHSD1	Fps/Fes/Fer/CIP4_homology, Src_homology-3_domain, Variant_SH3
+FGFR1OP	FGFR1_oncogene_partner_(FOP)_N-terminal_dimerisation_domain, LisH_dimerisation_motif
+FGFR1OP2	Protein_of_unknown_function_DUF837
+FIP1L1	Pre-mRNA_polyadenylation_factor_Fip1
+FOXO1	Transcription_factor_fork_head, Transcription_factor_fork_head_conserved_site, Winged_helix-turn-helix_transcription_repressor_DNA-binding
+FOXP1	Transcription_factor_fork_head, Transcription_factor_fork_head_conserved_site, Winged_helix-turn-helix_transcription_repressor_DNA-binding, Zinc_finger_C2H2-like
+FUS	Nucleotide-binding_alpha-beta_plait, RNA_recognition_motif_domain, Zinc_finger_RanBP2-type
+FZD6	Frizzled-related, Frizzled_domain, Frizzled_protein, GPCR_family_2-like
+GAPDH	Glyceraldehyde-3-phosphate_dehydrogenase_type_I, Glyceraldehyde/Erythrose_phosphate_dehydrogenase_family, Glyceraldehyde_3-phosphate_dehydrogenase_active_site, Glyceraldehyde_3-phosphate_dehydrogenase_catalytic_domain, Glyceraldehyde_3-phosphate_dehydrogenase_NAD(P)_binding_domain, NAD(P)-binding_domain
+GIT2	Ankyrin_repeat, Ankyrin_repeat-containing_domain, Arf_GTPase_activating_protein, G_protein-coupled_receptor_kinase-interacting_protein_1_C_term, Spa2_homology_(SHD)_of_GIT
+GOLGA4	GRIP
+GOLGA5	Golgin_subfamily_A_member_5
+GOPC	PDZ/DHR/GLGF
+HAS2	Fungal_chitin_synthase, Glycosyl_transferase_family_2
+HIP1	ANTH, Armadillo-type_fold, ENTH/VHS, Epsin-like_N-terminal, I/LWEQ
+HMGA1	AT_hook-like, AT_hook_DNA-binding_motif, High_mobility_group_HMG-I/HMG-Y, HMG-I/HMG-Y_DNA-binding_conserved_site
+HMGA2	AT_hook-like, AT_hook_DNA-binding_motif, High_mobility_group_HMG-I/HMG-Y, HMG-I/HMG-Y_DNA-binding_conserved_site
+HNRNPA2B1	Nuclear_factor_hnRNPA1, Nucleotide-binding_alpha-beta_plait, RNA_recognition_motif_domain
+HOOK3	HOOK
+HPR	Complement_control_module, Haptoglobin, Peptidase_cysteine/serine_trypsin-like, Peptidase_S1/S6_chymotrypsin/Hap, Peptidase_S1A_chymotrypsin-type
+HSP90AA1	ATPase-like_ATP-binding_domain, Heat_shock_protein_Hsp90, Heat_shock_protein_Hsp90_conserved_site, Heat_shock_protein_Hsp90_N-terminal, Ribosomal_protein_S5_domain_2-type_fold
+HSP90AB1	ATPase-like_ATP-binding_domain, Heat_shock_protein_Hsp90, Heat_shock_protein_Hsp90_conserved_site, Heat_shock_protein_Hsp90_N-terminal, Ribosomal_protein_S5_domain_2-type_fold
+IKZF1	Zinc_finger_C2H2-like, Zinc_finger_C2H2-type, Zinc_finger_C2H2-type/integrase_DNA-binding
+IL2	Four-helical_cytokine-like_core, Four-helical_cytokine_core, Interleukin-2
+IL21R	Fibronectin_type_III, Fibronectin_type_III_domain, Immunoglobulin-like_fold, Short_hematopoietin_receptor_family_1_conserved_site
+INPP5D	Endonuclease/exonuclease/phosphatase, Inositol_polyphosphate-related_phosphatase, SH2_motif
+ITK	Pleckstrin_homology-type, Pleckstrin_homology_domain, Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_catalytic_domain, Serine-threonine/tyrosine-protein_kinase, SH2_motif, Src_homology-3_domain, Tyrosine-protein_kinase_active_site, Tyrosine-protein_kinase_catalytic_domain, Zinc_finger_Btk_motif
+JAZF1	Zinc_finger_C2H2-like, Zinc_finger_C2H2-type, Zinc_finger_C2H2-type/integrase_DNA-binding
+KIF5B	Kinesin_motor_domain, Kinesin_motor_region_conserved_site
+KLK2	Peptidase_cysteine/serine_trypsin-like, Peptidase_S1/S6_chymotrypsin/Hap, Peptidase_S1/S6_chymotrypsin/Hap_active_site, Peptidase_S1A_chymotrypsin-type
+LCK	Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_catalytic_domain, Serine-threonine/tyrosine-protein_kinase, SH2_motif, Src_homology-3_domain, Tyrosine-protein_kinase_active_site, Tyrosine-protein_kinase_catalytic_domain
+LCP1	Actinin-type_actin-binding_conserved_site, Calcium-binding_EF-hand, Calponin_homology_domain, EF-hand, EF-hand-like_domain, EF-Hand_1_calcium-binding_site, EF-HAND_2
+LEO1	Leo1-like_protein
+LIFR	Fibronectin_type_III, Fibronectin_type_III_domain, Immunoglobulin-like_fold, Long_hematopoietin_receptor_gp130_family_2_conserved_site
+LRRFIP1	Leucine-rich_repeat_flightless-interacting_protein
+LYL1	Helix-loop-helix_DNA-binding, Helix-loop-helix_DNA-binding_domain
+MALT1	DEATH-like, Immunoglobulin, Immunoglobulin-like, Immunoglobulin-like_fold, Immunoglobulin_subtype, Immunoglobulin_subtype_2, Peptidase_C14_caspase_catalytic, Peptidase_C14_ICE_catalytic_subunit_p20
+MEF2D	Holliday_junction_regulator_protein_family_C-terminal_repeat, Transcription_factor_MADS-box
+MLL	AT_hook_DNA-binding_motif, Bromodomain, FY-rich_C-terminal, FY-rich_C-terminal_subgroup, FY-rich_N-terminal, FY-rich_N-terminal_subgroup, Methyltransferase_trithorax, Post-SET_domain, SET_domain, Zinc_finger_CXXC-type, Zinc_finger_FYVE/PHD-type, Zinc_finger_PHD-finger, Zinc_finger_PHD-type, Zinc_finger_RING/FYVE/PHD-type
+MN1	Armadillo-like_helical
+MNX1	Homeobox, Homeobox_conserved_site, Homeobox_eukaryotic, Homeodomain-like, Homeodomain-related
+MSI2	Nucleotide-binding_alpha-beta_plait, RNA_recognition_motif_domain
+MSN	Band_4.1_domain, Band_4.1_family, Ezrin/radixin/moesin, Ezrin/radixin/moesin_C-terminal, Ezrin/radixin/moesin_family, FERM/acyl-CoA-binding_protein_3-helical_bundle, FERM_C-terminal_PH-like_domain, FERM_central_domain, FERM_conserved_site, FERM_domain, FERM_N-terminal, Moesin, Pleckstrin_homology-type
+MYB	C-myb_C-terminal, Homeodomain-like, Homeodomain-related, Myb_DNA-binding, Myb_transcription_factor, SANT_domain_DNA_binding, Transcription_regulator_HTH_Myb-type_DNA-binding, Transcription_regulator_Wos2-domain
+MYC	Helix-loop-helix_DNA-binding, Helix-loop-helix_DNA-binding_domain, Leucine_zipper_Myc, Transcription_regulator_Myc, Transcription_regulator_Myc_N-terminal
+MYH9	IQ_motif_EF-hand_binding_site, Myosin_head_motor_domain, Myosin_N-terminal_SH3-like, Myosin_tail, Regulator_of_G_protein_signalling_superfamily
+MYO18A	DNA_recombination/repair_protein_RecA_monomer-monomer_interface, IQ_motif_EF-hand_binding_site, Myosin_head_motor_domain, Myosin_tail, PDZ/DHR/GLGF
+MYST3	Acyl-CoA_N-acyltransferase, Histone_H1/H5, MOZ/SAS-like_protein, Winged_helix-turn-helix_transcription_repressor_DNA-binding, Zinc_finger_FYVE/PHD-type, Zinc_finger_PHD-finger, Zinc_finger_PHD-type, Zinc_finger_RING-type, Zinc_finger_RING/FYVE/PHD-type
+MYST4	Acyl-CoA_N-acyltransferase, Histone_H1/H5, MOZ/SAS-like_protein, Winged_helix-turn-helix_transcription_repressor_DNA-binding, Zinc_finger_FYVE/PHD-type, Zinc_finger_PHD-finger, Zinc_finger_PHD-type, Zinc_finger_RING/FYVE/PHD-type
+NAV2	ATPase_AAA+_type_core, Calponin_homology_domain
+NCOA4	Nuclear_coactivator
+NDE1	NUDE_protein_C-terminal
+NDRG1	Ndr
+NFKB2	Ankyrin_repeat, Ankyrin_repeat-containing_domain, Cell_surface_receptor_IPT/TIG, Death, DEATH-like, Immunoglobulin-like_fold, Immunoglobulin_E-set, NF-kappa-B/Rel/dorsal, p53-like_transcription_factor_DNA-binding, Rel_homology
+NIN	EF-hand-like_domain, EF-HAND_2
+NONO	NOPS, Nucleotide-binding_alpha-beta_plait, RNA_recognition_motif_domain
+NOTCH1	Ankyrin_repeat, Ankyrin_repeat-containing_domain, EGF, EGF-like_calcium-binding, EGF-like_calcium-binding_conserved_site, EGF-like_region_conserved_site, EGF-type_aspartate/asparagine_hydroxylation_site, EGF_calcium-binding, EGF_extracellular, Epidermal_growth_factor-like, Epidermal_growth_factor-like_type_3, Neurogenic_locus_Notch_1, Notch, Notch_domain, Notch_NOD_domain, Notch_NODP_domain
+NPM1	Nucleoplasmin
+NSD1	AWS, Post-SET_domain, PWWP, SET_domain, Zinc_finger_FYVE/PHD-type, Zinc_finger_PHD-finger, Zinc_finger_PHD-type, Zinc_finger_PHD-type_conserved_site, Zinc_finger_RING-type, Zinc_finger_RING/FYVE/PHD-type
+NUP214	WD40/YVTN_repeat-like-containing_domain, WD40_repeat
+NUP98	Nuclear_protein_96, Peptidase_S59_nucleoporin
+OMD	Leucine-rich_repeat, Leucine-rich_repeat-containing_N-terminal, Leucine-rich_repeat_typical_subtype
+P2RY8	GPCR_rhodopsin-like_7TM, GPCR_rhodopsin-like_superfamily, P2_purinoceptor
+PAX3	Homeobox, Homeobox_conserved_site, Homeodomain-like, Homeodomain-related, Paired_box_protein_7, Paired_box_protein_N-terminal, Winged_helix-turn-helix_transcription_repressor_DNA-binding
+PAX5	Homeodomain-like, Paired-box_protein_2_C-terminal, Paired_box_protein_N-terminal, Winged_helix-turn-helix_transcription_repressor_DNA-binding
+PAX8	Homeodomain-like, Paired-box_protein_2_C-terminal, Paired_box_protein_N-terminal, Winged_helix-turn-helix_transcription_repressor_DNA-binding
+PDE4DIP	DUF1220, Spindle_associated
+PEX5	Tetratricopeptide-like_helical, Tetratricopeptide_repeat, Tetratricopeptide_repeat-containing, Tetratricopeptide_TPR-1
+PICALM	ANTH, Clathrin_adaptor_phosphoinositide-binding_GAT-like, ENTH/VHS, Epsin-like_N-terminal
+PIM1	Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_catalytic_domain, Proto-oncogene_serine/threonine-protein_kinase_Pim-1, Serine/threonine-protein_kinase-like_domain, Serine/threonine-protein_kinase_active_site, Serine/threonine-protein_kinase_domain
+PML	Protein_of_unknown_function_DUF3583, Zinc_finger_B-box, Zinc_finger_RING-type, Zinc_finger_RING-type_conserved_site, Zinc_finger_RING/FYVE/PHD-type
+POU2AF1	POU_class_2_associating_factor_1
+PPP2R2A	Protein_phosphatase_2A_regulatory_subunit_PR55, Protein_phosphatase_2A_regulatory_subunit_PR55_conserved_site, WD40/YVTN_repeat-like-containing_domain, WD40_repeat, WD40_repeat-like-containing_domain, WD40_repeat_subgroup
+PRKAR1A	cAMP-dependent_protein_kinase_regulatory_subunit, cAMP-dependent_protein_kinase_regulatory_subunit_type_I/II_alpha/beta, cAMP/cGMP-dependent_protein_kinase, Cyclic_nucleotide-binding-like, Cyclic_nucleotide-binding_conserved_site, Cyclic_nucleotide-binding_domain, RmlC-like_jelly_roll_fold
+PRKG2	AGC-kinase_C-terminal, cGMP-dependent_kinase, cGMP-dependent_protein_kinase, Cyclic_nucleotide-binding-like, Cyclic_nucleotide-binding_conserved_site, Cyclic_nucleotide-binding_domain, Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_catalytic_domain, RmlC-like_jelly_roll_fold, Serine/threonine-protein_kinase-like_domain, Serine/threonine-protein_kinase_active_site, Serine/threonine-protein_kinase_domain
+PVRL2	CD80-like_immunoglobulin_C2-set, Immunoglobulin-like, Immunoglobulin-like_fold, Immunoglobulin_subtype, Immunoglobulin_V-set
+RABEP1	Rabaptin, Rabaptin_coiled-coil_domain, Rabaptin_GTPase-Rab5_binding
+RANBP17	Armadillo-like_helical, Armadillo-type_fold, Importin-beta_N-terminal
+RANBP2	Cyclophilin-like, Nup358/RanBP2_E3_ligase_domain, Peptidyl-prolyl_cis-trans_isomerase_cyclophilin-type, Peptidyl-prolyl_cis-trans_isomerase_cyclophilin-type_conserved_site, Pleckstrin_homology-type, Ran_binding_protein_1, Tetratricopeptide-like_helical, Tetratricopeptide_repeat, Tetratricopeptide_repeat-containing, Tetratricopeptide_TPR-1, Zinc_finger_RanBP2-type
+RBM15	Nucleotide-binding_alpha-beta_plait, RNA_recognition_motif_domain, Spen_paralogue/orthologue_C-terminal_metazoa, Spen_paralogue_and_orthologue_SPOC_C-terminal, Spen_Paralogue_and_Orthologue_SPOC_C-terminal-like
+RBM6	D111/G-patch, Nucleotide-binding_alpha-beta_plait, RNA_recognition_motif_domain, Zinc_finger_C2H2-like
+RCSD1	RCSD
+RNF213	ATPase_AAA+_type_core, Zinc_finger_C3HC4_RING-type, Zinc_finger_RING-type, Zinc_finger_RING/FYVE/PHD-type
+RPN1	Ribophorin_I
+RUNX1	Acute_myeloid_leukemia_1_(AML_1)/Runt, Acute_myeloid_leukemia_1_protein_(AML_1)/Runt, p53-like_transcription_factor_DNA-binding, p53/RUNT-type_transcription_factor_DNA-binding_domain, Runx_inhibition, Transcription_factor_Runt-related_RUNX
+RYK	Protein_kinase-like_domain, Protein_kinase_catalytic_domain, Serine-threonine/tyrosine-protein_kinase, Tyrosine-protein_kinase_active_site, Tyrosine-protein_kinase_catalytic_domain, WIF_domain
+SEC31A	WD40-repeat-containing_domain, WD40/YVTN_repeat-like-containing_domain, WD40_repeat, WD40_repeat-like-containing_domain, WD40_repeat_2, WD40_repeat_subgroup
+SENP6	Peptidase_C48_SUMO/Sentrin/Ubl1
+SET	Nucleosome_assembly_protein_(NAP)
+SFPQ	NOPS, Nucleotide-binding_alpha-beta_plait, RNA_recognition_motif_domain
+SFRS3	Nucleotide-binding_alpha-beta_plait, RNA_recognition_motif_domain
+SLC34A2	Na/Pi-cotransporter
+SLC45A3	Major_facilitator_superfamily_general_substrate_transporter, Major_facilitator_superfamily_MFS-1
+SNX2	Phox_homologous_domain, Sorting_nexin_N-terminal, Vps5_C-terminal
+SPECC1	Calponin_homology_domain
+SPTBN1	Actinin-type_actin-binding_conserved_site, Calponin_homology_domain, Pleckstrin_homology-type, Pleckstrin_homology_domain, Spectrin/alpha-actinin, Spectrin/pleckstrin-like, Spectrin_beta_subunit, Spectrin_repeat
+SQSTM1	Phox/Bem1p, UBA-like, Ubiquitin-associated/translation_elongation_factor_EF1B_N-terminal_eukaryote, Zinc_finger_ZZ-type
+SRGAP3	Fps/Fes/Fer/CIP4_homology, Rho_GTPase-activating_protein_domain, Rho_GTPase_activation_protein, Src_homology-3_domain
+SS18	SSXT
+SS18L1	SSXT
+SSBP2	LisH_dimerisation_motif, Sequence-specific_single-strand_DNA-binding_protein, Single-stranded_DNA-binding_protein_SSDP
+STAT5B	EF-hand-like_domain, p53-like_transcription_factor_DNA-binding, SH2_motif, STAT_transcription_factor_all-alpha, STAT_transcription_factor_coiled_coil, STAT_transcription_factor_core, STAT_transcription_factor_DNA-binding, STAT_transcription_factor_DNA-binding_subdomain, STAT_transcription_factor_protein_interaction
+STRN	G-protein_beta_WD-40_repeat, Striatin_N-terminal, WD40-repeat-containing_domain, WD40/YVTN_repeat-like-containing_domain, WD40_repeat, WD40_repeat-like-containing_domain, WD40_repeat_2, WD40_repeat_conserved_site, WD40_repeat_subgroup
+TAF15	Nucleotide-binding_alpha-beta_plait, RNA_recognition_motif_domain, Zinc_finger_RanBP2-type
+TAL1	Helix-loop-helix_DNA-binding, Helix-loop-helix_DNA-binding_domain
+TCEA1	Transcription_elongation_factor_IIS, Transcription_elongation_factor_S-II_central_domain, Transcription_elongation_factor_S-IIM, Transcription_elongation_factor_TFIIS, Transcription_elongation_factor_TFIIS/CRSP70_N-terminal_sub-type, Transcription_factor_IIS_N-terminal, Zinc_finger_TFIIS-type
+TCF12	Helix-loop-helix_DNA-binding, Helix-loop-helix_DNA-binding_domain
+TCF3	Helix-loop-helix_DNA-binding, Helix-loop-helix_DNA-binding_domain
+TCR	Immunoglobulin-like_fold, Immunoglobulin_V-set
+TFG	Phox/Bem1p
+TFRC	Peptidase_M28, Protease-associated_domain_PA, Transferrin_receptor-like_dimerisation_domain
+TLX1	Homeobox, Homeobox_conserved_site, Homeobox_eukaryotic, Homeodomain-like, Homeodomain-related
+TMPRSS2	Low-density_lipoprotein_(LDL)_receptor_class_A_conserved_site, Low-density_lipoprotein_(LDL)_receptor_class_A_repeat, Peptidase_cysteine/serine_trypsin-like, Peptidase_S1/S6_chymotrypsin/Hap, Peptidase_S1/S6_chymotrypsin/Hap_active_site, Peptidase_S1A_chymotrypsin-type, Speract/scavenger_receptor, Speract/scavenger_receptor-related
+TP53BP1	BRCT, Translation_protein_SH3-like_subgroup, Tumour_suppressor_p53-binding_protein-1_Tudor
+TPM3	Tropomyosin
+TPM4	Tropomyosin
+TPR	Prefoldin, Seryl-tRNA_synthetase_class_IIa_N-terminal, Tetratricopeptide_MLP1/MLP2-like
+TPR	Prefoldin, Seryl-tRNA_synthetase_class_IIa_N-terminal, Tetratricopeptide_MLP1/MLP2-like
+TRIM24	B-box_C-terminal, Bromodomain, Bromodomain_conserved_site, Zinc_finger_B-box, Zinc_finger_FYVE/PHD-type, Zinc_finger_PHD-finger, Zinc_finger_PHD-type, Zinc_finger_PHD-type_conserved_site, Zinc_finger_RING-type, Zinc_finger_RING-type_conserved_site, Zinc_finger_RING/FYVE/PHD-type
+TRIM27	B302/SPRY_domain, Butyrophylin-like, Concanavalin_A-like_lectin/glucanase, SPla/RYanodine_receptor_SPRY, SPla/RYanodine_receptor_subgroup, SPRY-associated, Zinc_finger_B-box, Zinc_finger_B-box_chordata, Zinc_finger_C3HC4_RING-type, Zinc_finger_RING-type, Zinc_finger_RING-type_conserved_site, Zinc_finger_RING/FYVE/PHD-type
+TRIM33	B-box_C-terminal, Bromodomain, Zinc_finger_B-box, Zinc_finger_FYVE/PHD-type, Zinc_finger_PHD-finger, Zinc_finger_PHD-type, Zinc_finger_PHD-type_conserved_site, Zinc_finger_RING-type, Zinc_finger_RING-type_conserved_site, Zinc_finger_RING/FYVE/PHD-type
+TRIP11	GRIP
+VTI1A	t-SNARE, Target_SNARE_coiled-coil_domain, Vesicle_transport_v-SNARE_N-terminal
+WDR48	G-protein_beta_WD-40_repeat, Protein_of_unknown_function_DUF3337, WD40-repeat-containing_domain, WD40/YVTN_repeat-like-containing_domain, WD40_repeat, WD40_repeat-like-containing_domain, WD40_repeat_2, WD40_repeat_conserved_site, WD40_repeat_subgroup
+WWTR1	WW/Rsp5/WWP
+ZBTB16	BTB/POZ, BTB/POZ-like, BTB/POZ_fold, Zinc_finger_C2H2-like, Zinc_finger_C2H2-type, Zinc_finger_C2H2-type/integrase_DNA-binding
+ZMIZ1	Zinc_finger_MIZ-type, Zinc_finger_RING/FYVE/PHD-type
+ZMYM2	Protein_of_unknown_function_DUF3504, TRASH, Zinc_finger_MYM-type
+YAP1	WW/Rsp5/WWP
+GTF2I	GTF2I-like_repeat, Transcription_factor_II-I
+SLC44A1	Choline_transporter-like
+NAB2	NAB_co-repressor_domain, Nab_N-terminal
+CUX1	CASP_C-terminal
+FGFR3	Immunoglobulin, Immunoglobulin-like, Immunoglobulin-like_fold, Immunoglobulin_I-set, Immunoglobulin_subtype, Immunoglobulin_subtype_2, Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_catalytic_domain, Serine-threonine/tyrosine-protein_kinase, Tyrosine-protein_kinase_active_site, Tyrosine-protein_kinase_catalytic_domain, Tyrosine-protein_kinase_fibroblast_growth_factor_receptor
+ETV1	Ets, PEA3-type_ETS-domain_transcription_factor_N-terminal, Winged_helix-turn-helix_transcription_repressor_DNA-binding
+GLI1	Zinc_finger_C2H2-like, Zinc_finger_C2H2-type, Zinc_finger_C2H2-type/integrase_DNA-binding
+BRAF	Diacylglycerol/phorbol-ester_binding, Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_C-like_phorbol_ester/diacylglycerol_binding, Protein_kinase_catalytic_domain, Raf-like_Ras-binding, Serine-threonine/tyrosine-protein_kinase, Serine/threonine-protein_kinase_active_site
+NCOA2	Domain_of_unknown_function_DUF1518, Helix-loop-helix_DNA-binding, Helix-loop-helix_DNA-binding_domain, Nuclear_receptor_coactivator, Nuclear_receptor_coactivator_interlocking, Nuclear_receptor_coactivator_Ncoa-type_interlocking, Nuclear_receptor_coactivator_Src-1, PAC_motif, PAS, PAS_fold, Steroid_receptor_coactivator
+PTPN3	Band_4.1_domain, Band_4.1_family, FERM/acyl-CoA-binding_protein_3-helical_bundle, FERM_C-terminal_PH-like_domain, FERM_central_domain, FERM_conserved_site, FERM_domain, FERM_N-terminal, PDZ/DHR/GLGF, Pleckstrin_homology-type, Protein-tyrosine/Dual-specificity_phosphatase, Protein-tyrosine_phosphatase_active_site, Protein-tyrosine_phosphatase_non-receptor_type-3_-4, Protein-tyrosine_phosphatase_receptor/non-receptor_type
+PRCC	Mitotic_checkpoint_protein_PRCC_C-terminal
+TFE3	Helix-loop-helix_DNA-binding, Helix-loop-helix_DNA-binding_domain, Protein_of_unknown_function_DUF3371
+BCL2L1	Apoptosis_regulator_Bcl-2_BH, Apoptosis_regulator_Bcl-2_BH1_motif_conserved_site, Apoptosis_regulator_Bcl-2_BH2_motif_conserved_site, Apoptosis_regulator_Bcl-2_BH3_motif_conserved_site, Apoptosis_regulator_Bcl-2_BH4_motif_conserved_site, Apoptosis_regulator_Bcl-2_protein_BH4, Apoptosis_regulator_Bcl-X, Apoptosis_regulator_Bcl-X_protein, Apoptosis_regulator_Bcl2-like
+RARA	Nuclear_hormone_receptor_ligand-binding, Nuclear_hormone_receptor_ligand-binding_core, Retinoic_acid_receptor, Steroid_hormone_receptor, Zinc_finger_NHR/GATA-type, Zinc_finger_nuclear_hormone_receptor-type
+ABL1	F-actin_binding, Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_catalytic_domain, Serine-threonine/tyrosine-protein_kinase, SH2_motif, Src_homology-3_domain, Tyrosine-protein_kinase_active_site, Tyrosine-protein_kinase_catalytic_domain
+FGFR1	Immunoglobulin-like, Immunoglobulin-like_fold, Immunoglobulin_I-set, Immunoglobulin_subtype_2, Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_catalytic_domain, Serine-threonine/tyrosine-protein_kinase, Tyrosine-protein_kinase_active_site, Tyrosine-protein_kinase_catalytic_domain, Tyrosine-protein_kinase_fibroblast_growth_factor_receptor
+JAK2	Band_4.1_domain, FERM_central_domain, FERM_domain, Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_catalytic_domain, Serine-threonine/tyrosine-protein_kinase, SH2_motif, Tyrosine-protein_kinase_active_site, Tyrosine-protein_kinase_catalytic_domain, Tyrosine-protein_kinase_non-receptor_Jak/Tyk2, Tyrosine-protein_kinase_non-receptor_Jak2
+PDGFRA	Immunoglobulin-like, Immunoglobulin-like_fold, Immunoglobulin_I-set, Immunoglobulin_subtype, Immunoglobulin_subtype_2, Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_catalytic_domain, Serine-threonine/tyrosine-protein_kinase, Tyrosine-protein_kinase_active_site, Tyrosine-protein_kinase_catalytic_domain, Tyrosine-protein_kinase_CSF-1/PDGF_receptor, Tyrosine-protein_kinase_receptor_class_III_conserved_site, Tyrosine-protein_kinase_vascular_endothelial_growth_factor_receptor_(VEGFR)_N-terminal
+ARHGAP20	Pleckstrin_homology-type, Pleckstrin_homology_domain, Ras-association, Rho_GTPase-activating_protein_domain, Rho_GTPase_activation_protein
+MKL2	DNA-binding_SAP, RPEL_repeat
+BRD4	Bromodomain, Bromodomain_conserved_site
+PDGFRB	Immunoglobulin, Immunoglobulin-like, Immunoglobulin-like_fold, Immunoglobulin_I-set, Immunoglobulin_subtype, Immunoglobulin_subtype_2, Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_catalytic_domain, Serine-threonine/tyrosine-protein_kinase, Tyrosine-protein_kinase_active_site, Tyrosine-protein_kinase_catalytic_domain, Tyrosine-protein_kinase_CSF-1/PDGF_receptor, Tyrosine-protein_kinase_receptor_class_III_conserved_site, Tyrosine-protein_kinase_vascular_endothelial_growth_factor_receptor_(VEGFR)_N-terminal
+WDR43	Small-subunit_processome_Utp12, WD40-repeat-containing_domain, WD40/YVTN_repeat-like-containing_domain, WD40_repeat, WD40_repeat-like-containing_domain, WD40_repeat_2, WD40_repeat_subgroup
+ETV4	Ets, PEA3-type_ETS-domain_transcription_factor_N-terminal, Winged_helix-turn-helix_transcription_repressor_DNA-binding
+MYH11	IQ_motif_EF-hand_binding_site, Myosin_head_motor_domain, Myosin_N-terminal_SH3-like, Myosin_tail
+RET	Cadherin, Cadherin-like, Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_catalytic_domain, Serine-threonine/tyrosine-protein_kinase, Tyrosine-protein_kinase_active_site, Tyrosine-protein_kinase_catalytic_domain, Tyrosine-protein_kinase_Ret_receptor
+FSTL3	Follistatin-like_N-terminal, Follistatin/Osteonectin_EGF_domain, Matrix_fibril-associated, Protease_inhibitor_Kazal-type, Proteinase_inhibitor_I1_Kazal, TGF-beta_binding
+SLC1A2	Sodium:dicarboxylate_symporter, Sodium:dicarboxylate_symporter_conserved_site
+ROS1	Fibronectin_type_III, Fibronectin_type_III_domain, Immunoglobulin-like_fold, LDLR_class_B_repeat, Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_catalytic_domain, Serine-threonine/tyrosine-protein_kinase, Six-bladed_beta-propeller_TolB-like, Tyrosine-protein_kinase_active_site, Tyrosine-protein_kinase_catalytic_domain, Tyrosine-protein_kinase_receptor_class_II_conserved_site
+USP6	Peptidase_C19_ubiquitin_carboxyl-terminal_hydrolase_2, Peptidase_C19_ubiquitin_carboxyl-terminal_hydrolase_2_conserved_site, Rab-GAP/TBC_domain
+PLAG1	Zinc_finger_C2H2-like, Zinc_finger_C2H2-type, Zinc_finger_C2H2-type/integrase_DNA-binding
+DUX4	Helix-turn-helix_motif_lambda-like_repressor, Homeobox, Homeodomain-like, Homeodomain-related
+KIT	Immunoglobulin, Immunoglobulin-like, Immunoglobulin-like_fold, Immunoglobulin_subtype, Immunoglobulin_subtype_2, Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_catalytic_domain, Serine-threonine/tyrosine-protein_kinase, Tyrosine-protein_kinase_active_site, Tyrosine-protein_kinase_catalytic_domain, Tyrosine-protein_kinase_CSF-1/PDGF_receptor, Tyrosine-protein_kinase_receptor_class_III_conserved_site
+PDGFB	Platelet-derived_growth_factor_(PDGF), Platelet-derived_growth_factor_conserved_site, Platelet-derived_growth_factor_N-terminal
+CSF1	Four-helical_cytokine-like_core, Macrophage_colony_stimulating_factor-1
+PPARG	Nuclear_hormone_receptor_ligand-binding, Nuclear_hormone_receptor_ligand-binding_core, Peroxisome_proliferator-activated_receptor, Peroxisome_proliferator-activated_receptor_gamma, Peroxisome_proliferator-activated_receptor_gamma_N-terminal, Steroid_hormone_receptor, Zinc_finger_NHR/GATA-type, Zinc_finger_nuclear_hormone_receptor-type
+MAML2	Neurogenic_mastermind-like_N-terminal
+PHF1	Tudor_domain, Zinc_finger_FYVE/PHD-type, Zinc_finger_PHD-finger, Zinc_finger_PHD-type, Zinc_finger_PHD-type_conserved_site, Zinc_finger_RING/FYVE/PHD-type
+RAF1	Diacylglycerol/phorbol-ester_binding, Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_C-like_phorbol_ester/diacylglycerol_binding, Protein_kinase_catalytic_domain, Raf-like_Ras-binding, Serine-threonine/tyrosine-protein_kinase, Serine/threonine-protein_kinase_active_site
+ABL2	F-actin_binding, Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_catalytic_domain, Serine-threonine/tyrosine-protein_kinase, SH2_motif, Src_homology-3_domain, Tyrosine-protein_kinase_active_site, Tyrosine-protein_kinase_catalytic_domain
+ACSL6	AMP-binding_conserved_site, AMP-dependent_synthetase/ligase
+ARNT	Helix-loop-helix_DNA-binding, Helix-loop-helix_DNA-binding_domain, Nuclear_translocator, PAC_motif, PAS, PAS_fold, PAS_fold-3
+BAZ2A	AT_hook_DNA-binding_motif, Bromodomain, Bromodomain_conserved_site, DDT_domain, DDT_domain_subgroup, DDT_domain_superfamily, DNA-binding_integrase-type, Methyl-CpG_DNA_binding, Zinc_finger_FYVE/PHD-type, Zinc_finger_PHD-finger, Zinc_finger_PHD-type, Zinc_finger_RING/FYVE/PHD-type
+CDX2	Caudal-like_activation_domain, Helix-turn-helix_motif_lambda-like_repressor, Homeobox, Homeobox_conserved_site, Homeobox_eukaryotic, Homeodomain-like, Homeodomain-related
+FLT3	Immunoglobulin, Immunoglobulin-like, Immunoglobulin-like_fold, Immunoglobulin_subtype, Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_catalytic_domain, Serine-threonine/tyrosine-protein_kinase, Tyrosine-protein_kinase_active_site, Tyrosine-protein_kinase_catalytic_domain, Tyrosine-protein_kinase_CSF-1/PDGF_receptor, Tyrosine-protein_kinase_receptor_class_III_conserved_site
+GOT1	Aminotransferase_class_I/classII, Aminotransferases_class-I_pyridoxal-phosphate-binding_site, Aspartate/other_aminotransferase, Pyridoxal_phosphate-dependent_transferase_major_domain, Pyridoxal_phosphate-dependent_transferase_major_region_subdomain_1
+ITPR2	Inositol_145-trisphosphate-binding_protein_receptor, Inositol_145-trisphosphate/ryanodine_receptor, Intracellular_calcium-release_channel, Ion_transport, MIR, MIR_motif, Ryanodine_receptor-related, RyR/IP3R_Homology_associated_domain
+LYN	Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_catalytic_domain, Serine-threonine/tyrosine-protein_kinase, SH2_motif, Src_homology-3_domain, Tyrosine-protein_kinase_active_site, Tyrosine-protein_kinase_catalytic_domain
+MECOM	Zinc_finger_C2H2-like, Zinc_finger_C2H2-type, Zinc_finger_C2H2-type/integrase_DNA-binding
+NKAIN2	NaK-Atpase_Interacting_protein
+NTRK3	Cysteine-rich_flanking_region_C-terminal_domain, Immunoglobulin, Immunoglobulin-like, Immunoglobulin-like_fold, Immunoglobulin_I-set, Immunoglobulin_subtype, Leucine-rich_repeat, Leucine-rich_repeat-containing_N-terminal, Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_catalytic_domain, Serine-threonine/tyrosine-protein_kinase, Tyrosine-protein_kinase_active_site, Tyrosine-protein_kinase_catalytic_domain, Tyrosine-protein_kinase_neurotrophic_receptor, Tyrosine-protein_kinase_neurotrophic_receptor_type_3, Tyrosine-protein_kinase_receptor_class_II_conserved_site
+PER1	PAC_motif, PAS, PAS_fold-3, Period_circadian-like_C-terminal
+PRDM16	SET_domain, Zinc_finger_C2H2-like, Zinc_finger_C2H2-type, Zinc_finger_C2H2-type/integrase_DNA-binding
+SYK	Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_catalytic_domain, Serine-threonine/tyrosine-protein_kinase, SH2_motif, Tyrosine-protein_kinase_active_site, Tyrosine-protein_kinase_catalytic_domain, Tyrosine-protein_kinase_non-receptor_SYK/ZAP-70, Tyrosine-protein_kinase_SYK/ZAP-70_inter-SH2_domain
+ATF1	Basic-leucine_zipper_(bZIP)_transcription_factor, bZIP_transcription_factor_bZIP-1, cAMP_response_element_binding_(CREB)_protein, Coactivator_CBP_pKID
+CREB1	Basic-leucine_zipper_(bZIP)_transcription_factor, bZIP_transcription_factor_bZIP-1, cAMP_response_element_binding_(CREB)_protein, Coactivator_CBP_pKID
+DDIT3	Basic-leucine_zipper_(bZIP)_transcription_factor, Basic_leucine_zipper, DNA_damage-inducible_transcript_3
+ERG	Ets, Sterile_alpha_motif-type, Sterile_alpha_motif/pointed, Sterile_alpha_motif_homology, Winged_helix-turn-helix_transcription_repressor_DNA-binding
+FEV	Ets, Winged_helix-turn-helix_transcription_repressor_DNA-binding
+FLI1	Ets, Sterile_alpha_motif-type, Sterile_alpha_motif/pointed, Sterile_alpha_motif_homology, Winged_helix-turn-helix_transcription_repressor_DNA-binding
+NFATC2	Cell_surface_receptor_IPT/TIG, Immunoglobulin-like_fold, Immunoglobulin_E-set, Nuclear_factor_of_activated_T_cells_(NFAT), p53-like_transcription_factor_DNA-binding, Rel_homology
+NR4A3	Nuclear_hormone_receptor_ligand-binding, Nuclear_hormone_receptor_ligand-binding_core, Orphan_nuclear_receptor, Orphan_nuclear_receptor_NOR1_type, Steroid_hormone_receptor, Zinc_finger_NHR/GATA-type, Zinc_finger_nuclear_hormone_receptor-type
+PATZ1	AT_hook_DNA-binding_motif, BTB/POZ, BTB/POZ-like, BTB/POZ_fold, HMG-I/HMG-Y_DNA-binding_conserved_site, Zinc_finger_C2H2-like, Zinc_finger_C2H2-type, Zinc_finger_C2H2-type/integrase_DNA-binding
+PBX1	Homeobox, Homeobox_conserved_site, Homeodomain-like, Homeodomain-related, PBX
+POU5F1	Homeobox, Homeobox_conserved_site, Homeodomain-like, Homeodomain-related, Lambda_repressor-like_DNA-binding, POU, POU-specific, POU_domain-containing_protein_class_5
+SMARCA5	ATPase_nucleosome_remodelling_ISWI_HAND_domain, DEAD-like_helicase, Helicase_C-terminal, Homeodomain-like, SANT_domain_DNA_binding, SANT_eukarya, SLIDE, SNF2-related
+SP3	Zinc_finger_C2H2-like, Zinc_finger_C2H2-type, Zinc_finger_C2H2-type/integrase_DNA-binding
+WT1	Wilm's_tumour_protein, Wilm's_tumour_protein_N-terminal, Zinc_finger_C2H2-like, Zinc_finger_C2H2-type, Zinc_finger_C2H2-type/integrase_DNA-binding
+ZNF444	Retrovirus_capsid_C-terminal, Transcription_regulator_SCAN, Zinc_finger_C2H2-like, Zinc_finger_C2H2-type, Zinc_finger_C2H2-type/integrase_DNA-binding
+IGH	Immunoglobulin-like, Immunoglobulin-like_fold, Immunoglobulin_V-set, Immunoglobulin_V-set_subgroup
+CREB3L1	Basic-leucine_zipper_(bZIP)_transcription_factor, bZIP_transcription_factor_bZIP-1, cAMP_response_element_binding_(CREB)_protein, Eukaryotic_transcription_factor_Skn-1-like_DNA-binding
+SDC2	Neurexin/syndecan/glycophorin_C, Syndecan
+BCL6	BTB/POZ, BTB/POZ-like, BTB/POZ_fold, Zinc_finger_C2H2-like, Zinc_finger_C2H2-type, Zinc_finger_C2H2-type/integrase_DNA-binding
+LAMA4	Concanavalin_A-like_lectin/glucanase, Concanavalin_A-like_lectin/glucanase_subgroup, EGF-like_laminin, Laminin_G_domain, Laminin_G_subdomain_2, Laminin_I, Laminin_II
+COG5	Conserved_oligomeric_Golgi_complex_subunit_5
+COX6C	Cytochrome_c_oxidase_subunit_VIc
+FHIT	Histidine_triad-like_motif, Histidine_triad_(HIT)_protein, Histidine_triad_conserved_site, Histidine_triad_motif
+LPP	Zinc_finger_LIM-type
+NFIB	CTF_transcription_factor/nuclear_factor_1, CTF_transcription_factor/nuclear_factor_1_conserved_site, CTF_transcription_factor/nuclear_factor_1_DNA-binding_domain, CTF_transcription_factor/nuclear_factor_1_N-terminal, MAD_homology_1_Dwarfin-type
+RAD51L1	DNA_recombination/repair_protein_RecA/RadB_ATP-binding_domain, DNA_recombination_and_repair_protein_Rad51_C-terminal
+WIF1	EGF-like_region_conserved_site, EGF_extracellular, Epidermal_growth_factor-like, Epidermal_growth_factor-like_type_3, WIF_domain, Wnt_inhibitory_factor_(WIF)-1
+MRPS10	Ribosomal_protein_S10
+DEXI	Dexamethasone-induced_protein
+TNFRSF17	BCMA_TALL-1_binding, Tumour_necrosis_factor_receptor_17
+BCL3	Ankyrin_repeat, Ankyrin_repeat-containing_domain
+BCL7A	BCL7
+CCND3	Cyclin, Cyclin-like, Cyclin-related, Cyclin_A/B/D/E, Cyclin_C-terminal, Cyclin_N-terminal
+CDKN2A	Cyclin-dependent_kinase_inhibitor_2A
+FCGR2B	Immunoglobulin-like, Immunoglobulin-like_fold, Immunoglobulin_subtype
+FCRL4	Immunoglobulin, Immunoglobulin-like, Immunoglobulin-like_fold, Immunoglobulin_subtype, Immunoglobulin_subtype_2
+IL3	Four-helical_cytokine-like_core, Four-helical_cytokine_core, Interleukin-3
+KDSR	Glucose/ribitol_dehydrogenase, NAD(P)-binding_domain, Short-chain_dehydrogenase/reductase_conserved_site, Short-chain_dehydrogenase/reductase_SDR
+LHX4	Homeobox, Homeobox_conserved_site, Homeodomain-like, Homeodomain-related, Zinc_finger_LIM-type
+LHX4	Zinc_finger_LIM-type
+MUC1	Mucin-1, SEA
+PAFAH1B2	Esterase_SGNH_hydrolase-type, Esterase_SGNH_hydrolase-type_subgroup, Lipase_GDSL
+WHSC1	AWS, High_mobility_group_HMG1/HMG2, High_mobility_group_superfamily, Post-SET_domain, PWWP, SET_domain, Zinc_finger_FYVE/PHD-type, Zinc_finger_PHD-finger, Zinc_finger_PHD-type, Zinc_finger_PHD-type_conserved_site, Zinc_finger_RING-type, Zinc_finger_RING/FYVE/PHD-type
+WWOX	Glucose/ribitol_dehydrogenase, NAD(P)-binding_domain, Short-chain_dehydrogenase/reductase_SDR, WW/Rsp5/WWP
+SUZ12	Polycomb_protein_VEFS-Box, Zinc_finger_C2H2-like
+SLC12A1	Amino_acid_permease_domain, Amino_acid_permease_N-terminal, Na/K/Cl_co-transporter, Na/K/Cl_co-transporter_2, Na/K/Cl_co-transporter_superfamily
+ACAT2	Thiolase, Thiolase-like, Thiolase-like_subgroup, Thiolase_active_site, Thiolase_C-terminal, Thiolase_conserved_site, Thiolase_N-terminal
+TFEB	Helix-loop-helix_DNA-binding, Helix-loop-helix_DNA-binding_domain, Protein_of_unknown_function_DUF3371
+MAP4	Tubulin-binding_Tau_protein
+DAZAP1	Nucleotide-binding_alpha-beta_plait, RNA_recognition_motif_domain
+ABI1	Abl-interactor_homeo-domain_homologous_domain, Neutrophil_cytosol_factor_2_p67phox, Src_homology-3_domain, Target_SNARE_coiled-coil_domain
+ABI2	Abl-interactor_homeo-domain_homologous_domain, Src_homology-3_domain, Target_SNARE_coiled-coil_domain
+ACACA	Acetyl-CoA_carboxylase_central_domain, Acetyl-coenzyme_A_carboxyltransferase_C-terminal, Acetyl-coenzyme_A_carboxyltransferase_N-terminal, ATP-grasp_fold, ATP-grasp_fold_subdomain_1, ATP-grasp_fold_subdomain_2, Biotin-binding_site, Biotin/lipoyl_attachment, Biotin_carboxylase_C-terminal, Biotin_carboxylation_domain, Carbamoyl-phosphate_synthase_large_subunit_N-terminal, Carbamoyl-phosphate_synthetase_large_subunit_ATP-binding, Carboxyl_transferase, Pre-ATP-grasp_fold, PreATP-grasp-like_fold, Rudiment_single_hybrid_motif, Single_hybrid_motif
+AFF1	Transcription_factor_AF4, Transcription_factor_AF4/FMR2
+AFF4	Transcription_factor_AF4/FMR2
+ARHGAP26	IRSp53/MIM_homology_domain_(IMD), Pleckstrin_homology-type, Pleckstrin_homology_domain, Rho_GTPase-activating_protein_domain, Rho_GTPase_activation_protein, Src_homology-3_domain
+ARHGEF12	Dbl_homology_(DH)_domain, Guanine-nucleotide_dissociation_stimulator_CDC24_conserved_site, PDZ/DHR/GLGF, Pleckstrin_homology-type, Pleckstrin_homology_domain, Regulator_of_G_protein_signalling-like_fold, Regulator_of_G_protein_signalling_superfamily, Rho_GTP_exchange_factor
+CASP8AP2	Homeodomain-like
+CBL	Adaptor_protein_Cbl_EF_hand-like, Adaptor_protein_Cbl_N-terminal_helical, Adaptor_protein_Cbl_SH2-like, EF-hand-like_domain, SH2_motif, UBA-like, Ubiquitin-associated/translation_elongation_factor_EF1B_N-terminal, Ubiquitin-associated/translation_elongation_factor_EF1B_N-terminal_eukaryote, Zinc_finger_C3HC4_RING-type, Zinc_finger_RING-type, Zinc_finger_RING-type_conserved_site, Zinc_finger_RING/FYVE/PHD-type
+CREBBP	Bromodomain, Bromodomain_conserved_site, Coactivator_CBP_KIX, Domain_of_unknown_function_DUF902_CREBbp, Histone_H3-K56_acetyltransferase_RTT109, Nuclear_receptor_coactivator_CREB-bp-like_interlocking, Nuclear_receptor_coactivator_interlocking, Zinc_finger_TAZ-type, Zinc_finger_ZZ-type
+DAB2IP	C2_calcium-dependent_membrane_targeting, C2_calcium/lipid-binding_domain_CaLB, Pleckstrin_homology-type, Pleckstrin_homology_domain, Protein_of_unknown_function_DUF3498, Ras_GTPase-activating_protein, Ras_GTPase-activating_protein_conserved_site, Rho_GTPase_activation_protein
+EEFSEC	Protein_synthesis_factor_GTP-binding, Translation_elongation/initiation_factor/Ribosomal_beta-barrel, Translation_elongation_factor_EFTu/EF1A_domain_2
+ELL	Occludin/RNA_polymerase_II_elongation_factor_ELL_domain, RNA_polymerase_II_elongation_factor_ELL
+EP300	Bromodomain, Bromodomain_conserved_site, Coactivator_CBP_KIX, Domain_of_unknown_function_DUF902_CREBbp, Histone_H3-K56_acetyltransferase_RTT109, Nuclear_receptor_coactivator_CREB-bp-like_interlocking, Nuclear_receptor_coactivator_interlocking, Zinc_finger_TAZ-type, Zinc_finger_ZZ-type
+EPS15	Calcium-binding_EF-hand, EF-hand-like_domain, EF-Hand_1_calcium-binding_site, EF-HAND_2, EPS15_homology_(EH), Ubiquitin_interacting_motif
+FLNA	Actinin-type_actin-binding_conserved_site, Calponin_homology_domain, Filamin/ABP280_repeat, Filamin/ABP280_repeat-like, Immunoglobulin-like_fold, Immunoglobulin_E-set
+FOXO3	Transcription_factor_fork_head, Transcription_factor_fork_head_conserved_site, Winged_helix-turn-helix_transcription_repressor_DNA-binding
+GAS7	Fps/Fes/Fer/CIP4_homology, Src_homology-3_domain, WW/Rsp5/WWP
+GMPS	Anthranilate_synthase_component_II/delta_crystallin, Glutamine_amidotransferase_superfamily, Glutamine_amidotransferase_type_1, GMP_synthase_C-terminal, GMP_synthase_N-terminal, NAD/GMP_synthase, Rossmann-like_alpha/beta/alpha_sandwich_fold
+GPHN	MoeA_C-terminal_domain_IV, MoeA_N-terminal_and_linker_domain, Molybdenum_cofactor_biosynthesis_conserved_site, Molybdenum_cofactor_synthesis, Molybdopterin_binding
+KIAA0284	Forkhead-associated_(FHA)_domain, SMAD/FHA_domain
+KIAA1524	Armadillo-type_fold
+LASP1	Nebulin, Nebulin_35_residue_motif, Src_homology-3_domain, Zinc_finger_LIM-type
+MAPRE1	Calponin_homology_domain, EB1_C-terminal
+MLLT1	YEATS
+MLLT10	Zinc_finger_FYVE/PHD-type, Zinc_finger_PHD-finger, Zinc_finger_PHD-type, Zinc_finger_PHD-type_conserved_site, Zinc_finger_RING/FYVE/PHD-type
+MLLT3	YEATS
+MLLT4	Dil_domain, Dilute, Forkhead-associated_(FHA)_domain, PDZ/DHR/GLGF, Ras-association, SMAD/FHA_domain
+MLLT6	Zinc_finger_FYVE/PHD-type, Zinc_finger_PHD-finger, Zinc_finger_PHD-type, Zinc_finger_PHD-type_conserved_site, Zinc_finger_RING/FYVE/PHD-type
+MYO1F	IQ_motif_EF-hand_binding_site, Myosin_head_motor_domain, Myosin_tail_2, Src_homology-3_domain
+NCKIPSD	Domain_of_unknown_function_DUF2013, Src_homology-3_domain
+NEBL	Nebulin, Nebulin_35_residue_motif, Src_homology-3_domain
+PDS5A	Armadillo-like_helical, Armadillo-type_fold
+SACM1L	Synaptojanin_N-terminal
+SEPT11	Cell_division/GTP_binding_protein, Septin
+SEPT2	Cell_division/GTP_binding_protein, Septin, Septin_2
+SEPT5	Cell_division/GTP_binding_protein, Septin
+SEPT6	Cell_division/GTP_binding_protein, Septin
+SEPT9	Cell_division/GTP_binding_protein
+SH3GL1	BAR, Neutrophil_cytosol_factor_2_p67phox, Src_homology-3_domain
+SORBS2	Neutrophil_cytosol_factor_2_p67phox, Sorbin-like, Src_homology-3_domain, Variant_SH3, Zinc_finger_C2H2-type
+TET1	Zinc_finger_CXXC-type
+ZFYVE19	Zinc_finger_FYVE-related, Zinc_finger_FYVE-type, Zinc_finger_FYVE/PHD-type, Zinc_finger_RING-type, Zinc_finger_RING/FYVE/PHD-type
+HOXA9	Homeobox, Homeobox_conserved_site, Homeobox_eukaryotic, Homeobox_Hox9, Homeodomain-like, Homeodomain-related, Hox9_N-terminal_activation_domain
+GATA1	Transcription_factor_GATA-1/2/3, Zinc_finger_GATA-type, Zinc_finger_NHR/GATA-type
+ZBTB5	BTB/POZ, BTB/POZ-like, BTB/POZ_fold, Zinc_finger_C2H2-like, Zinc_finger_C2H2-type, Zinc_finger_C2H2-type/integrase_DNA-binding
+NCOA3	Domain_of_unknown_function_DUF1518, Helix-loop-helix_DNA-binding, Helix-loop-helix_DNA-binding_domain, Nuclear_receptor_coactivator, Nuclear_receptor_coactivator_interlocking, Nuclear_receptor_coactivator_Ncoa-type_interlocking, Nuclear_receptor_coactivator_Src-1, PAS, PAS_fold, Steroid_receptor_coactivator
+TCF7L1	CTNNB1_binding_N-teminal, High_mobility_group_HMG1/HMG2, High_mobility_group_superfamily
+INA	Filament, Intermediate_filament_head_DNA-binding_domain, Intermediate_filament_protein, Intermediate_filament_protein_conserved_site
+TBXAS1	Cytochrome_P450, Cytochrome_P450_conserved_site, Cytochrome_P450_E-class_group_I
+MLF1	Myeloid_leukemia_factor
+DEK	DEK_C-terminal, DNA-binding_SAP
+ADD3	Class_II_aldolase/adducin_N-terminal
+DDX10	DEAD-like_helicase, DNA/RNA_helicase_DEAD/DEAH_box_type_N-terminal, Helicase_C-terminal, RNA_helicase_ATP-dependent_DEAD-box_conserved_site, RNA_helicase_DEAD-box_type_Q_motif
+HHEX	Homeobox, Homeobox_conserved_site, Homeobox_eukaryotic, Homeodomain-like, Homeodomain-related
+HMGB3	High_mobility_group_HMG1/HMG2, High_mobility_group_HMG1/HMG2_subgroup, High_mobility_group_superfamily, HMG_box_A_DNA-binding_domain_conserved_site
+HOXA11	Domain_of_unknown_function_DUF3528_homeobox_protein_eukaryotic, Homeobox, Homeobox_conserved_site, Homeobox_eukaryotic, Homeodomain-like, Homeodomain-related
+HOXA13	Homeobox, Homeobox_conserved_site, Homeodomain-like, Homeodomain-related, Hox_protein_A13_N-terminal
+HOXC11	Domain_of_unknown_function_DUF3528_homeobox_protein_eukaryotic, Homeobox, Homeobox_conserved_site, Homeobox_eukaryotic, Homeodomain-like, Homeodomain-related
+HOXC13	Homeobox, Homeobox_conserved_site, Homeodomain-like, Homeodomain-related, Hox_protein_A13_N-terminal
+HOXD11	Domain_of_unknown_function_DUF3528_homeobox_protein_eukaryotic, Homeobox, Homeobox_conserved_site, Homeobox_eukaryotic, Homeodomain-like, Homeodomain-related
+HOXD13	Homeobox, Homeobox_conserved_site, Homeodomain-like, Homeodomain-related, Hox_protein_A13_N-terminal
+IQCG	IQ_motif_EF-hand_binding_site
+KDM5A	ARID/BRIGHT_DNA-binding_domain, PLU-1-like, Transcription_factor_jumonji, Transcription_factor_jumonji/aspartyl_beta-hydroxylase, Transcription_factor_jumonji_JmjN, Zinc_finger_C5HC2-type, Zinc_finger_FYVE/PHD-type, Zinc_finger_PHD-finger, Zinc_finger_PHD-type, Zinc_finger_PHD-type_conserved_site, Zinc_finger_RING/FYVE/PHD-type
+PRRX1	Homeobox, Homeobox_conserved_site, Homeodomain-like, Homeodomain-related, Paired-like_homeodomain_protein_OAR
+PRRX2	Homeobox, Homeobox_conserved_site, Homeodomain-like, Homeodomain-related, Paired-like_homeodomain_protein_OAR
+PSIP1	Lens_epithelium-derived_growth_factor_(LEDGF), PWWP, Treacle-like_Treacher_Collins_Syndrome
+RAP1GDS1	Armadillo, Armadillo-like_helical, Armadillo-type_fold
+SETBP1	AT_hook_DNA-binding_motif
+TOP1	DNA_breaking-rejoining_enzyme_catalytic_core, DNA_topoisomerase_I_active_site, DNA_topoisomerase_I_C-terminal, DNA_topoisomerase_I_C-terminal_eukaryotic-type, DNA_topoisomerase_I_catalytic_core_alpha-helical_subdomain_eukaryotic-type, DNA_topoisomerase_I_catalytic_core_alpha/beta_subdomain_eukaryotic-type, DNA_topoisomerase_I_catalytic_core_eukaryotic-type, DNA_topoisomerase_I_DNA_binding_eukaryotic-type, DNA_topoisomerase_I_DNA_binding_mixed_alpha/beta_motif_eukaryotic-type, DNA_topoisomerase_I_domain_1, DNA_topoisomerases_I_dispensable_insert_eukaryotic-type
+WHSC1L1	AWS, Post-SET_domain, PWWP, SET_domain, Zinc_finger_FYVE/PHD-type, Zinc_finger_PHD-finger, Zinc_finger_PHD-type, Zinc_finger_PHD-type_conserved_site, Zinc_finger_RING-type, Zinc_finger_RING/FYVE/PHD-type
+CRLF2	Fibronectin_type_III, Fibronectin_type_III_domain, Immunoglobulin-like_fold
+NCOA1	Domain_of_unknown_function_DUF1518, Helix-loop-helix_DNA-binding, Helix-loop-helix_DNA-binding_domain, Nuclear_receptor_coactivator, Nuclear_receptor_coactivator_interlocking, Nuclear_receptor_coactivator_Ncoa-type_interlocking, Nuclear_receptor_coactivator_Src-1, PAS, PAS_fold, Steroid_receptor_coactivator
+AUTS2	Autism_susceptibility_gene_2_protein
+BRD1	Bromodomain, Bromodomain_conserved_site, Enhancer_of_polycomb-like_N-terminal, PWWP, Zinc_finger_FYVE/PHD-type, Zinc_finger_PHD-finger, Zinc_finger_PHD-type, Zinc_finger_PHD-type_conserved_site, Zinc_finger_RING/FYVE/PHD-type
+DACH1	DNA_binding_domain_putative, Transforming_protein_Ski
+ELN	Tropoelastin
+HIPK1	Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_catalytic_domain, Serine/threonine-protein_kinase-like_domain, Serine/threonine-protein_kinase_active_site, Serine/threonine-protein_kinase_domain
+SLCO1B3	Major_facilitator_superfamily, Major_facilitator_superfamily_general_substrate_transporter, Organic_anion_transporter_polypeptide_OATP, Protease_inhibitor_Kazal-type, Proteinase_inhibitor_I1_Kazal
+ZNF521	Zinc_finger_C2H2-like, Zinc_finger_C2H2-type, Zinc_finger_C2H2-type/integrase_DNA-binding, Zinc_finger_RING/FYVE/PHD-type
+LPL	Lipase, Lipase/lipooxygenase_PLAT/LH2, Lipase_N-terminal, Lipoprotein_lipase, Lipoprotein_lipase_LIPH, Lipoxygenase_LH2
+CHEK2	Forkhead-associated_(FHA)_domain, Protein_kinase-like_domain, Protein_kinase_catalytic_domain, Serine/threonine-protein_kinase-like_domain, Serine/threonine-protein_kinase_active_site, Serine/threonine-protein_kinase_domain, SMAD/FHA_domain
+MKL1	DNA-binding_SAP, RPEL_repeat
+CSF1R	Immunoglobulin, Immunoglobulin-like, Immunoglobulin-like_fold, Immunoglobulin_subtype, Immunoglobulin_subtype_2, Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_catalytic_domain, Serine-threonine/tyrosine-protein_kinase, Tyrosine-protein_kinase_active_site, Tyrosine-protein_kinase_catalytic_domain, Tyrosine-protein_kinase_CSF-1/PDGF_receptor, Tyrosine-protein_kinase_receptor_class_III_conserved_site
+CBFA2T3	Eight-Twenty-One, Myeloid_transforming_gene_on_chromosome_16_(MTG16), NHR2-like, TAFH/NHR1, Zinc_finger_MYND-type
+CLCA2	Calcium-activated_chloride_channel_protein, Chloride_channel_calcium-activated, Domain_of_unknown_function_DUF1973, von_Willebrand_factor_type_A
+LPXN	Leupaxin, Zinc_finger_LIM-type
+MACROD1	Appr-1-p_processing, Uncharacterised_protein_family_UPF0189
+RUNX1T1	Eight-Twenty-One, Myeloid_transforming_gene_on_chromosome_8_(MTG8), NHR2-like, TAFH/NHR1, Zinc_finger_MYND-type
+SH3D19	Neutrophil_cytosol_factor_2_p67phox, Src_homology-3_domain, Variant_SH3
+TRPS1	Zinc_finger_C2H2-like, Zinc_finger_C2H2-type, Zinc_finger_GATA-type, Zinc_finger_NHR/GATA-type
+USP42	Peptidase_C19_ubiquitin_carboxyl-terminal_hydrolase_2, Peptidase_C19_ubiquitin_carboxyl-terminal_hydrolase_2_conserved_site
+YTHDF2	YTH_domain
+ZNF687	Zinc_finger_C2H2-like, Zinc_finger_C2H2-type, Zinc_finger_C2H2-type/integrase_DNA-binding
+ATP5O	ATPase_F1_complex_OSCP/delta_subunit, ATPase_F1_complex_OSCP/delta_subunit_conserved_site
+ELK4	Ets, Winged_helix-turn-helix_transcription_repressor_DNA-binding
+SSX1	Krueppel-associated_box, Krueppel-associated_box-related, SSXRD_motif
+SSX4	Krueppel-associated_box, Krueppel-associated_box-related
+ZNF384	Zinc_finger_C2H2-like, Zinc_finger_C2H2-type, Zinc_finger_C2H2-type/integrase_DNA-binding
+RHOA	Ras, Ras_GTPase, Small_GTP-binding_protein, Small_GTPase_Rho_type
+HLF	Basic-leucine_zipper_(bZIP)_transcription_factor, Basic_leucine_zipper
+NOP2	Bacterial_Fmu_(Sun)/eukaryotic_nucleolar_NOL1/Nop2p, Bacterial_Fmu_(Sun)/eukaryotic_nucleolar_NOL1/Nop2p_conserved_site, Nop2p, P120R, RNA_(C5-cytosine)_methyltransferase, RNA_(C5-cytosine)_methyltransferase_NOP2
+LMO1	Zinc_finger_LIM-type
+LMO2	Zinc_finger_LIM-type
+MTCP1NB	MTCP1
+NTRK1	Cysteine-rich_flanking_region_C-terminal_domain, Immunoglobulin-like, Immunoglobulin-like_fold, Immunoglobulin_subtype, Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_catalytic_domain, Serine-threonine/tyrosine-protein_kinase, Tyrosine-protein_kinase_active_site, Tyrosine-protein_kinase_catalytic_domain, Tyrosine-protein_kinase_neurotrophic_receptor, Tyrosine-protein_kinase_neurotrophic_receptor_type_1, Tyrosine-protein_kinase_receptor_class_II_conserved_site
+ETV5	Ets, PEA3-type_ETS-domain_transcription_factor_N-terminal, Winged_helix-turn-helix_transcription_repressor_DNA-binding
+TCF7L2	CTNNB1_binding_N-teminal, High_mobility_group_HMG1/HMG2, High_mobility_group_superfamily
+CAMTA1	Ankyrin_repeat, Ankyrin_repeat-containing_domain, Cell_surface_receptor_IPT/TIG, CG-1, Immunoglobulin-like_fold, Immunoglobulin_E-set, IQ_motif_EF-hand_binding_site
+PRKCA	AGC-kinase_C-terminal, C2_calcium-dependent_membrane_targeting, C2_calcium/lipid-binding_domain_CaLB, C2_membrane_targeting_protein, C2_region, Diacylglycerol/phorbol-ester_binding, Protein_kinase-like_domain, Protein_kinase_ATP_binding_site, Protein_kinase_C-like_phorbol_ester/diacylglycerol_binding, Protein_kinase_C-terminal, Protein_kinase_C_alpha/beta/gamma_types, Protein_kinase_catalytic_domain, Serine/threonine-protein_kinase-like_domain, Serine/threonine-protein_kinase_active_site, Serine/threonine-protein_kinase_domain
+STAT6	EF-hand-like_domain, p53-like_transcription_factor_DNA-binding, SH2_motif, STAT_transcription_factor_all-alpha, STAT_transcription_factor_coiled_coil, STAT_transcription_factor_core, STAT_transcription_factor_DNA-binding, STAT_transcription_factor_DNA-binding_subdomain, STAT_transcription_factor_protein_interaction
+AGR3	Thioredoxin-like_fold, Thioredoxin_fold
+BAIAP2L1	IRSp53/MIM_homology_domain_(IMD), Src_homology-3_domain, Variant_SH3
+TACC3	Transforming_acidic_coiled-coil-containing

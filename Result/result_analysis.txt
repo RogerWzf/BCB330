@@ -1,0 +1,6 @@
+205 Fusion pairs was initially filtered out since one partner in these pairs doesn't have data from the IID database
+Among the rest of 208 fusion pairs, I collect the number of each partner's protein interactors, 
+    their protein domain information(from IID and fpclass), and input each pair to ChiTras database for transcript 
+    and domain information. 
+    127 in 208 have no known transcript/domain information from the ChiTaRs Database.
+
